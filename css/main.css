@@ -118,6 +118,18 @@ li {
 	font-family: "Poppins", sans-serif;
 }
 
+.trading h2{
+	font-size: 38px;
+	font-weight: bold;
+	font-family: "Poppins", sans-serif;
+}
+
+.trading p{
+	font-size: 15px;
+	font-family: "Poppins", sans-serif;
+	font-weight: bolder;
+}
+
 
 
 .mudunit{
@@ -131,7 +143,7 @@ li {
 
 .trading{
 
-	background: url(../images/oil-refinery-chemical-petrochemical-plant-1.jpg);
+	background: url(../images/oili.jpg);
 	height: 100vh;
 	position: relative;
 	width :auto
